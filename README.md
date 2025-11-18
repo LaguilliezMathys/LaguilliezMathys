@@ -3,7 +3,6 @@
 </div>
 
 ###
-
 <h2 align="left">Hi 👋! I'm Mathys, a 20-year-old Developer</h2>
 
 ###
