@@ -5,13 +5,6 @@
 ###
 <h2 align="left">Hi 👋! I'm Mathys, a 20-year-old Developer</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaguilliezMathys&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
-</div>
-
-###
 
 <div>
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=transparent&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
